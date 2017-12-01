@@ -41,8 +41,7 @@ Answer:
 
 Some second layer technologies currently being developed will increase confirmation speeds, such as the Lightning Network. 
 The Lightning Network is an open sourced project allowing frequent channels to be opened/closed with a small fee, and transactions
-to flow within that channel at a fast rate and minimal cost. Please visit their 
-[Github repository](https://github.com/lightningnetwork/lnd) for more information.
+to flow within that channel at a fast rate and minimal cost. Please visit their [Github repository](https://github.com/lightningnetwork/lnd) for more information.
 
 Question:
 
@@ -103,8 +102,7 @@ These disasters affect users at an alarming rate due to the flaw of having minim
 advantages and disadvantages with each system, but in terms of financial security, the world has remained dependent on centralized 
 institutions to act as custodians for user’s wealth. Bitcoin, a decentralized network of transaction verification and validation, 
 allows for these points of failure to spread out, allowing for the safety of the transaction ledger to be untarnished. For more 
-details on the differences between centralized and decentralized systems, please [click here]
-(https://bitcoin.org/en/bitcoin-core/features/network-support).
+details on the differences between centralized and decentralized systems, please [click here](https://bitcoin.org/en/bitcoin-core/features/network-support).
 
 Question:
 
