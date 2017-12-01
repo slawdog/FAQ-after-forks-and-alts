@@ -3,9 +3,9 @@ FAQ after forks and alts
 
 Hey guys
 
-Lots of people sea-lioning nowadays. Here's an FAQ to lessen the exhaustion. A "dev" bountied it and never got back to me, but whatever. Enjoy.
+Lots of people sea-lioning nowadays. Here's an FAQ to lessen the exhaustion. 
 
-BTW, not a dev. Adding links now
+BTW, not a dev. 
 
 -----------------------------------------------------------
 
