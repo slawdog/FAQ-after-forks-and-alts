@@ -31,8 +31,7 @@ Answer:
 
 Bitcoin has successfully implemented Segwit, a second layer technology which effectively doubles transaction throughput. 
 As demand continues to increase, additional scaling solutions will be implemented, such as the Lightning Network. 
-These projects are actively being refined and developed. Please review the current [Bitcoin Core Github repository]
-(https://github.com/bitcoin/bitcoin/projects) for more information on active projects.
+These projects are actively being refined and developed. Please review the current [Bitcoin Core Github repository](https://github.com/bitcoin/bitcoin/projects) for more information on active projects.
 
 Question:
 
