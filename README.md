@@ -80,8 +80,7 @@ of its software. Though supporting user demand is important, it does not take pr
 
 As for alternative coins and forks overtaking Bitcoin, it is conceivable. The cryptocurrency space is fully voluntary, so the success of each project is dependent on the willingness of the user to download and maintain the clients they choose. A good method for reviewing the success of each coin is seeing how each project is different from one another, such as reviewing the difference between Litecoin and Bitcoin Cash. What makes one better than the other? Reviewing the white papers, Github repositories, reviewing number of authors, proof type, and algorithms are important for understanding what each project is doing or proposing to do. In addition, reviewing the history of a currency and their project or company leads can help guide you to the best coin for you. See [the following](http://www.visualcapitalist.com/) as an example of crypto comparisons. 
 
-Industry adoption, as it stands, seems to favor Bitcoin ([Japan, Russia]
-(https://www.cnbc.com/2017/04/12/bitcoin-price-rises-japan-russia-regulation.html), 
+Industry adoption, as it stands, seems to favor Bitcoin ([Japan, Russia](https://www.cnbc.com/2017/04/12/bitcoin-price-rises-japan-russia-regulation.html), 
 [Sweden](http://nordic.businessinsider.com/the-swedish-authorities-have-settled-a-claim-in-bitcoins-2017-10/), 
 [CME trading](http://www.cmegroup.com/trading/cf-bitcoin-reference-rate.html), and 
 [Canada](https://www.canada.ca/en/financial-consumer-agency/services/payment/digital-currency.html)). 
