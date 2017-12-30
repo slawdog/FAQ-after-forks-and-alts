@@ -154,6 +154,37 @@ create more harmful effects overall.
 In addition, second layer technologies may prove helpful to mitigate the concerns of energy consumption. 
 
 
+The following is a list of forks following the Bitcoin project. More details about these projects can be retrieved at https://en.wikipedia.org/wiki/List_of_Bitcoin_forks.
+
+Bitcoin Cash: Forked at Block 478558, 1 August 2017, For each 1 BTC you get 1 BCH
+Bytether: Cross fork from Bitcoin to Ethereum blockchain at block 478558, 1 August 2017. For each 1 BTC you get 1 BTH ERC-20 token.
+Bitcoin Clashic: Forked at Block 478558, 1 August 2017. For each 1 BTC you get 1 BCHC / BCL
+Bitcoin Gold: Forked at Block 491407, 24 October 2017, For each 1 BTC you get 1 BTG
+Bitcoin Diamond: Forked at Block 495866, 24 November 2017, For each 1 BTC you get 10 BCD
+UnitedBitcoin: Forked at Block 498777, 12 December 2017, For each 1 BTC you get 1 UB
+Bitcoin Hot: Forked at Block 498848, 12 December 2017, For each 1 BTC you get 100 BTH
+Super Bitcoin: Forked at Block 498888, 12 December 2017, For each 1 BTC you get 1 SBTC
+BitcoinX: Forked at Block 498888[, 12 December 2017, For each 1 BTC you get 10,000 BCX
+Oil Bitcoin: Forked at Block 498888, 12 December 2017, For each 1 BTC you get 1 OBTC
+Bitcoin World: Forked at Block 499777, 17 December 2017, For each 1 BTC you get 10000 BTW
+Lightning Bitcoin: Forked at Block 499999, 19 December 2017, For each 1 BTC you get 1 LBTC
+Bitcoin Stake: Forked at Block 4999999, 19 December 2017, For each 1 BTC, you get 100 BTCS
+BitEthereum: Forking on 21 December 2017, For each 1 BTC you get 3.940616 BITE
+Bitcoin Top: Forked at Block 501118, 26 December 2017, For each 1 BTC you get 1 BTT
+Bitcoin God: Forked at Block 501225, forked on 27th December 2017. For each 1 BTC you get 1 GOD
+Bitcoin FILE: Forked at Block 501225, forked on 27th December 2017. For each 1 BTC you get 1000 BIFI
+Bitcoin SegWit2X X11 Not to be confused with a previous fork SegWit2X with the same name. Forked at Block 501451, 28 December 2017. For each 1 BTC you get 1 B2X
+Bitcoin Uranium: Forking on 31st December 2017, For each 1 BTC you get 1 BUM.
+Bitcoin Pizza: Forking at Block 501888, 1st January 2018, For each 1 BTC you get 1 BPA
+Bitcoin All: Forking on 1st January 2018, For each 1 BTC you get 1 BTA. Referenced on steemit post.
+Bitcoin Cash Plus: Forking at Block 501407, Expected on 2nd of January 2018, For each 1 BTC you get 1 BCP
+Bitcoin Smart: Forking at Block 505050, 21 January 2018, For each 1 BTC you get 1 BCS
+Bitcoin Interest: Forking at Block 505083, 22 January 2018, For each 1 BTC you get 1 BCI
+Quantum Bitcoin: Forking on 28th January 2018, For each 1 BTC you get 1 QBTC
+Bitcoin LITE: Forking on 30th January 2018, For each 1 BTC you get 1 BTCL
+Bitcoin Ore: Forking on 31st January 2018, For each 1 BTC you get 1 BCO
+Bitcoin Private: Forking TBA in January 2018, For each 1 BTC you get 1 BTCP (also if you have 1 ZCL you get 1 BTCP)
+Bitcoin ATOM: Forking TBA in January 2018, For each 1 BTC you get 1 BCA
 
 1KoQr4ZvbWuCaiBA3d3Uu4EN7DVyRC61PQ 
 thnx
