@@ -214,8 +214,7 @@ Bitcoin Private: Forking TBA in January 2018, For each 1 BTC you get 1 BTCP (als
 
 Bitcoin ATOM: Forking TBA in January 2018, For each 1 BTC you get 1 BCA
 
-1KoQr4ZvbWuCaiBA3d3Uu4EN7DVyRC61PQ 
-thnx
+
 
 
 
