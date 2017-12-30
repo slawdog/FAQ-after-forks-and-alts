@@ -153,6 +153,8 @@ create more harmful effects overall.
 
 In addition, second layer technologies may prove helpful to mitigate the concerns of energy consumption. 
 
+****************************************************************************************************************
+
 
 The following is a list of forks following the Bitcoin project. More details about these projects can be retrieved [here](https://en.wikipedia.org/wiki/List_of_Bitcoin_forks).
 
